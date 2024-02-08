@@ -1,23 +1,12 @@
 # reading notes
 
-## What Games Does Beyonce Play?
-
-  - Call of Duty 
-  - Palworld
-  - Pokemon Go
-  - Fortnite
-  - Party Animals
-  - Need Of Speed
-  - Dead By Daylight
-  - Gta
-  - FAll  Guys
-  - Among Us
-
-## Meet Beyonce Family 
-1. Lakeysha
-2. Devonta
-3. Bre
-4. Hannah
-5. Elevlyn
-6. Diamonda
-   
+## Growth Mindset 
+- I want to Continue to Learn never get up no matter what the mistkaes is 
+- I would like to Getting Feedback from Classmates or coworkers
+- I'm learning new skills to further my career.
+- I'm watching Youtube to help me
+- I'm adaptable to teaching
+  ## 3 reminder of myself
+1. I write in my calendar
+2. I put a daily reminder in my phone with a alarm 
+3. I have a set schedule
