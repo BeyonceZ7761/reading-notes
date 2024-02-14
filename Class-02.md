@@ -2,9 +2,13 @@
 
 - What are four important features to look for in a text editor?
 1.Stream editors
+
 2.Multiple Window Editor
+
 3.DOS-Editor
+
 4.Word Processor
+
 5.Full Screen Editors
 
 - What do the following commands do?
