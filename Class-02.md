@@ -31,8 +31,8 @@ The touch command is the easiest way to create new, empty files. It is also used
 touch's syntax is
 touch [option] file_name(s)
 When used without any options, touch creates new files for any file names that are provided as arguments (i.e., input data) if files with such names do not already exist. Touch can create any number of files simultaneously.
-Thus, for example, the following command would create three new, empty files named file1, file2 and file3:
-touch file1 file2 file3
+Thus, for example, the following command would create three new, empty files named file1, file2 and more
+touch file1 file2 
 A nice feature of touch is that, in contrast to some commands such as cp (which is used to copy files and directories) and mv (which is used to move or rename files and directories), it does not automatically overwrite (i.e., erase the contents of) existing files with the same name. Rather, it merely changes the last access times for such files to the current time.
 Several of touch's options are specifically designed to allow the user to change the timestamps for files. For example, the -a option changes only the access time, while the -m option changes only the modification time.
 
