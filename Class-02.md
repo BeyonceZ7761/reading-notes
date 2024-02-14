@@ -1,6 +1,7 @@
 #  The Coders Computer 
 
 - What are four important features to look for in a text editor?
+
 1.Stream editors
 
 2.Multiple Window Editor
